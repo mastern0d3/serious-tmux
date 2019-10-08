@@ -1,2 +1,3 @@
-# .tmux2
-Reinventing my tmux with inheritance
+#  Serious Tmux
+
+Reinventing tmux configuration. Seriously.
